@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "40392466984",
+    "project_id": "apppagoservicios",
+    "storage_bucket": "apppagoservicios.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40392466984:android:d82e5b9e966827826b0b1d",
+        "android_client_info": {
+          "package_name": "com.example.pago_servicios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40392466984-318oc3tncki68ho937rlhue9gag1f92i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPRf8XXf_fTUnAMFxqvNIX69bnTcL0SqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40392466984-318oc3tncki68ho937rlhue9gag1f92i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
